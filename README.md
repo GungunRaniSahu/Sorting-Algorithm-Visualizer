@@ -21,7 +21,7 @@ Sorting algorithms are fundamental to computer science, and understanding their 
    ```
 2. Navigate to the project folder:
    ```bash
-   cd sorting-visualizer
+   cd Sorting-Algorithm-Visualizer
    ```
 3. Open `index.html` in your browser.
 4. Select a sorting algorithm and watch it in action!
